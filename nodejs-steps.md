@@ -60,6 +60,6 @@ For other Linux distributions, you can typically install Node.js using their pac
 
 ## Conclusion
 
-Hooray! 🎉 You've now got Node.js up and running like a well-oiled machine on your system. Time to unleash your coding creativity and build something amazing! Whether you're crafting sleek web apps or tinkering with server-side magic, Node.js is your trusty sidekick on this coding adventure. So, grab your favorite beverage, put on your coding socks, and let the fun begin! Happy coding! 😄🚀
+Hooray! 🎉 You've now got Node.js up and running like a well-oiled machine on your system. Time to unleash your coding creativity and build something amazing! Whether you're crafting sleek web apps or tinkering with server-side magic, Node.js is your trusty sidekick on this coding adventure. So, grab your favourite beverage, put on your coding socks, and let the fun begin! Happy coding! 😄🚀
 
 
